@@ -1,4 +1,3 @@
-```markdown
 # Collaborative Escape Room with Private Clues
 
 Experience an exhilarating multiplayer online escape room game where each player receives encrypted clues that can only be deciphered by them, all powered by **Zama's Fully Homomorphic Encryption technology**. Engage in a thrilling challenge that not only tests your intellect but also your ability to communicate effectively with your team to unravel the mysteries hidden within the game.
@@ -111,4 +110,3 @@ This project is made possible thanks to the pioneering work of the **Zama team**
 ---
 
 Dive into the Collaborative Escape Room and challenge yourself and your friends to uncover the secrets hidden within! 
-```
